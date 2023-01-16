@@ -1,2 +1,6 @@
-# algorithm
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 알고리즘
+> 알고리즘 싫어! 하고 애써 무시해왔던 나...  
+오늘부터 알고리즘을 시작해 보도록 한다.
+
+- [ ] node.js 설정 만들기 for 백준
+- [ ] 풀 문제 리스트 만들기
